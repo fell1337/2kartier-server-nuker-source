@@ -1,9 +1,3 @@
-// Decompiled with JetBrains decompiler
-// Type: Server_Nuker.Program
-// Assembly: Server Nuker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: B6E9EE68-CAFF-408B-8678-489D6CFFB986
-// Assembly location: C:\Users\Shadow\Documents\2KARTIER-SERVER-NUKER-LEAKED-master\2kartier C# Nuker\2kartier C# Nuker\Server Nuker.exe
-
 using Discord;
 using Discord.Gateway;
 using System;
